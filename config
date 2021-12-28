@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = soomyungkwon
+	email = wewinwith@hanmail.net
+[remote "origin"]
+	url = https://github.com/soomyungkwon/vrsample-git-github.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
